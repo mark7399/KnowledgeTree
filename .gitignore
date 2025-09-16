@@ -118,3 +118,6 @@ logs
 # Temporary files
 tmp/
 temp/
+
+# MkDocs build output
+site/
